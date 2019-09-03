@@ -1,0 +1,9 @@
+{
+  "partyStateInstanceReference" : "PSIR748920",
+  "partyStateInitiateActionReference" : "PSIAR747810",
+  "partyStateInstanceStatus" : "partyStateInstanceStatus",
+  "partyStateInitiateActionRecord" : {},
+  "cRPartyStatusInstanceRecord" : {
+    "customerReference" : "719295"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "statusInstanceRecord" : {
+    "customerRelationshipStatusValidFromToDate" : "09-22-2018"
+  },
+  "statusCaptureActionTaskRecord" : {},
+  "statusCaptureActionTaskReference" : "PSCATR772919",
+  "statusCaptureRecordReference" : "SCRR775048",
+  "captureResponseRecord" : {}
+}

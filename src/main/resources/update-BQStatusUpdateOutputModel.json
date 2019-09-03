@@ -1,0 +1,11 @@
+{
+  "statusUpdateActionTaskRecord" : {},
+  "statusInstanceRecord" : {
+    "customerRelationshipStatusValidFromToDate" : "09-22-2018",
+    "customerRelationshipStatusType" : "customerRelationshipStatusType",
+    "customerRelationshipStatus" : "customerRelationshipStatus",
+    "customerRelationshipStatusNarrative" : "customerRelationshipStatusNarrative"
+  },
+  "updateResponseRecord" : {},
+  "statusUpdateActionTaskReference" : "PSUATR762775"
+}

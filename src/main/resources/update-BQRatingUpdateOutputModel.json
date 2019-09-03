@@ -1,0 +1,11 @@
+{
+  "ratingUpdateActionTaskReference" : "RUATR798287",
+  "ratingInstanceRecord" : {
+    "customerRelationshipRatingValidFromToDate" : "09-22-2018",
+    "customerRelationshipRatingNarrative" : "customerRelationshipRatingNarrative",
+    "customerRelationshipRatingType" : "customerRelationshipRatingType",
+    "customerRelationshipRating" : "customerRelationshipRating"
+  },
+  "updateResponseRecord" : {},
+  "ratingUpdateActionTaskRecord" : {}
+}

@@ -1,0 +1,23 @@
+{
+  "statusRetrieveActionTaskReference" : "PSRATR754376",
+  "statusInstanceRecord" : {
+    "customerRelationshipStatusValidFromToDate" : "09-22-2018",
+    "customerRelationshipStatusType" : "customerRelationshipStatusType",
+    "customerRelationshipStatus" : "customerRelationshipStatus",
+    "customerRelationshipStatusNarrative" : "customerRelationshipStatusNarrative"
+  },
+  "statusRetrieveActionTaskRecord" : {},
+  "statusInstanceReport" : {
+    "statusInstanceReportRecord" : {},
+    "statusInstanceReportType" : "statusInstanceReportType",
+    "statusInstanceReportParameters" : "statusInstanceReportParameters",
+    "statusInstanceReport" : {}
+  },
+  "statusRetrieveActionResponse" : "statusRetrieveActionResponse",
+  "statusInstanceAnalysis" : {
+    "statusInstanceAnalysisReport" : {},
+    "statusInstanceAnalysisRecord" : {},
+    "statusInstanceAnalysisParameters" : "statusInstanceAnalysisParameters",
+    "statusInstanceAnalysisReportType" : "statusInstanceAnalysisReportType"
+  }
+}

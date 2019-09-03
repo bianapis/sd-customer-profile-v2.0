@@ -1,0 +1,23 @@
+{
+  "ratingRetrieveActionTaskReference" : "RRATR731149",
+  "ratingRetrieveActionTaskRecord" : {},
+  "ratingInstanceRecord" : {
+    "customerRelationshipRatingValidFromToDate" : "09-22-2018",
+    "customerRelationshipRatingNarrative" : "customerRelationshipRatingNarrative",
+    "customerRelationshipRatingType" : "customerRelationshipRatingType",
+    "customerRelationshipRating" : "customerRelationshipRating"
+  },
+  "ratingInstanceAnalysis" : {
+    "ratingInstanceAnalysisParameters" : "ratingInstanceAnalysisParameters",
+    "ratingInstanceAnalysisRecord" : {},
+    "ratingInstanceAnalysisReport" : {},
+    "ratingInstanceAnalysisReportType" : "ratingInstanceAnalysisReportType"
+  },
+  "ratingRetrieveActionResponse" : "ratingRetrieveActionResponse",
+  "ratingInstanceReport" : {
+    "ratingInstanceReportRecord" : {},
+    "ratingInstanceReportParameters" : "ratingInstanceReportParameters",
+    "ratingInstanceReportType" : "ratingInstanceReportType",
+    "ratingInstanceReport" : {}
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alertCaptureRecordReference" : "ACRR724809",
+  "alertCaptureActionTaskReference" : "ACATR739075",
+  "alertInstanceRecord" : {
+    "customerRelationshipAlertValidFromToDate" : "09-22-2018"
+  },
+  "alertCaptureActionTaskRecord" : {},
+  "captureResponseRecord" : {}
+}

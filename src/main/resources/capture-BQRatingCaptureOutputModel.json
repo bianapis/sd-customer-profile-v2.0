@@ -1,0 +1,9 @@
+{
+  "ratingInstanceRecord" : {
+    "customerRelationshipRatingValidFromToDate" : "09-22-2018"
+  },
+  "ratingCaptureActionTaskReference" : "RCATR763585",
+  "ratingCaptureRecordReference" : "RCRR709712",
+  "ratingCaptureActionTaskRecord" : {},
+  "captureResponseRecord" : {}
+}

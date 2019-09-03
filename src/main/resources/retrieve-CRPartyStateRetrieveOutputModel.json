@@ -1,0 +1,18 @@
+{
+  "partyStateInstanceReportRecord" : {
+    "partyStateInstanceReportType" : "partyStateInstanceReportType",
+    "partyStateInstanceReport" : {},
+    "partyStateInstanceReportData" : "partyStateInstanceReportData"
+  },
+  "partyStateRetrieveActionResponse" : "partyStateRetrieveActionResponse",
+  "partyStateRetrieveActionTaskReference" : "PSRATR777979",
+  "partyStateRetrieveActionTaskRecord" : {},
+  "cRPartyStatusInstanceRecord" : {
+    "customerReference" : "779424"
+  },
+  "partyStateInstanceAnalysis" : {
+    "partyStateInstanceAnalysisReport" : {},
+    "partyStateInstanceAnalysisReportType" : "partyStateInstanceAnalysisReportType",
+    "partyStateInstanceAnalysisData" : "partyStateInstanceAnalysisData"
+  }
+}
