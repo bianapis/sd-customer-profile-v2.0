@@ -87,7 +87,8 @@ public class CRPartyStateInitiateOutputModel   {
   public CRPartyStateInitiateInputModelCRPartyStatusInstanceRecord getCRPartyStatusInstanceRecord() {
     return cRPartyStatusInstanceRecord;
   }
-
+   
+  @JsonProperty("cRPartyStatusInstanceRecord")
   public void setCRPartyStatusInstanceRecord(CRPartyStateInitiateInputModelCRPartyStatusInstanceRecord cRPartyStatusInstanceRecord) {
     this.cRPartyStatusInstanceRecord = cRPartyStatusInstanceRecord;
   }

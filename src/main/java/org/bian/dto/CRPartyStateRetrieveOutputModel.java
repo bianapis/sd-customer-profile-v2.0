@@ -35,7 +35,7 @@ public class CRPartyStateRetrieveOutputModel   {
   public CRPartyStateRetrieveOutputModelCRPartyStatusInstanceRecord getCRPartyStatusInstanceRecord() {
     return cRPartyStatusInstanceRecord;
   }
-
+  @JsonProperty("cRPartyStatusInstanceRecord")
   public void setCRPartyStatusInstanceRecord(CRPartyStateRetrieveOutputModelCRPartyStatusInstanceRecord cRPartyStatusInstanceRecord) {
     this.cRPartyStatusInstanceRecord = cRPartyStatusInstanceRecord;
   }
